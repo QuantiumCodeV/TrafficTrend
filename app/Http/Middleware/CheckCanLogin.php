@@ -12,7 +12,7 @@ class CheckCanLogin
     {
         if (auth()->check() && auth()->user()->can_login == false) {
            
-            abort(403, 'Доступ запрещен. Дождитесь одобрения админа.');
+            abort(403, 'Access denied. Please contact the administrator for approval.');
         }
 
         return $next($request);

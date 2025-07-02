@@ -53,19 +53,15 @@
           <header>
             <div class="container">
               <div class="u6jpspHr303FQOgA6gafW">
-                <a
-                  class="_3ceBl3xo4Nu0fWqATINL8f"
-                  href="#"
-                  ><img
-                    src="/assets/45c47139b9160717b8b631664a1ff609.svg"
-                    alt="split.pro logo" /></a
-                ><a
-                  class="_3SY-IYV0Nr04HMpO9dhIDE"
-                  href="#"
-                  ><img
-                    src="/assets/9f0486f3ca39728ffc99d02d2f32bdc8.svg"
-                    alt="split.pro logo" /></a
-                >
+              <span>
+                  TrafficTrend
+                </span>
+                <style>
+      .logoText{
+        font-size: 26px;
+        font-weight:bolder
+      }
+    </style>
               </div>
               
               <div class="K4kMBG___38loCe_7pi8m">
