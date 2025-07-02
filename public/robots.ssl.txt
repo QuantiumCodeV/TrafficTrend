@@ -1,0 +1,54 @@
+User-agent: *
+Allow: /media/
+Allow: /*.js$
+Allow: /css/*
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*?*
+Disallow: /ru/*?*
+Disallow: /conditions/
+Disallow: /policy/
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /wp-admin/
+
+User-agent: Googlebot
+Allow: /media/
+Allow: /*.js$
+Allow: /css/*
+Disallow: /*?*
+Disallow: /ru/*?*
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /js/
+Disallow: /conditions/
+Disallow: /policy/
+
+User-agent: Yandex
+Allow: /media/
+Allow: /*.js$
+Disallow: /*?*
+Disallow: /ru/*?*
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /css/
+Disallow: /conditions/
+Disallow: /policy/
+
+User-Agent: Googlebot-Image
+Allow: /images/
+Allow: *.jpg
+Allow: *.JPG
+Allow: *.png
+Allow: *.gif
+Allow: *.jpeg
+Allow: *.svg
+Allow: *.mp4
+
+User-Agent: Yandex-Image
+Allow: /images/
+Allow: *.jpg
+Allow: *.JPG
+Allow: *.png
+Allow: *.gif
+Allow: *.jpeg
+Allow: *.svg
+Allow: *.mp4
+
+Sitemap: https://OctoCPA.com/sitemap_index.xml

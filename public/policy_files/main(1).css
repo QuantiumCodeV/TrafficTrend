@@ -1,0 +1,527 @@
+@font-face {
+    font-family: "GilroyRegular";  
+    src: url("../fonts/gilroy/Gilroy-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GilroyMedium";  
+    src: url("../fonts/gilroy/Gilroy-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GilroyBlack";  
+    src: url("../fonts/gilroy/Gilroy-Black.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
+
+body{
+    font-family: 'GilroyMedium', sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+#header img {
+    max-width: 215px;
+  }
+#menu-index-menu a {
+    font-family: 'GilroyMedium', sans-serif !important;
+    color: #000 !important;
+    font-weight: 500 !important;
+  }
+.check_language_select {
+    position: relative;
+    font-family: 'GilroyMedium', sans-serif;
+  width: max-content;
+  min-width: 56px;
+  min-height: 28px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #777;
+  padding: 6px 0px 6px 12px;
+  border: none;
+  border-radius: 5px;
+  background: #F8F8FA;
+  }
+  .check_language {
+    display: inline-flex;
+    background-color: #F8F8FA;
+    width: 59px;
+    border-radius: 5px;
+  }
+  .ekit-heading--title.elementskit-section-title {
+    font-family: 'GilroyBlack' !important;
+    color: #000 !important;
+  }
+  .ekit-heading--title.elementskit-section-title span {
+    font-family: 'GilroyBlack' !important;
+    color: #6B72EE !important;
+  }
+  #btn_auth {
+    padding: 0;
+  }
+  #btn_auth .e-con-inner {
+    padding: 0;
+  }
+  .elementor-6 .elementor-element.elementor-element-51f071 > .elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 156px 80px 156px 80px;
+  }
+  .btn_register a,
+  .btn_login a{
+    font-family: 'GilroyMedium' !important;
+    min-width: 156px;
+    min-height: 62px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .elementor-166 .elementor-element.elementor-element-3b017800 > .elementor-element-populated {
+    padding: 156px 80px 156px 80px;
+  }
+  .elementor-6 .elementor-element.elementor-element-4de82eb0 {
+    padding: 116px 30px 116px 30px;
+  }
+  .elementor-166 .elementor-element.elementor-element-631f375 {
+    padding: 116px 30px 116px 30px;
+  }
+  #advantages img{
+    max-width: 75px;
+  }
+ #advantages .elementor-heading-title{
+    color: #222;
+  font-family: "GilroyBlack" !important;
+  }
+  #advantages .elementor-widget-container {
+   display: flex;
+   justify-content: center;
+  }
+  #advantages .elementor-widget-container p{
+    font-family: "GilroyRegular" !important;
+    margin: 0 !important;
+    max-width: 256px;
+  }
+  #vertikali {
+    padding: 88px 0 147px;
+  }
+  .vertical_items section + section {
+    margin-top: 33px !important;
+  }
+  #vertikali h2.elementor-heading-title {
+    font-family: "GilroyBlack" !important;
+    font-size: 48px;
+    line-height: 39px;
+  }
+  #vertikali .elementor-heading-title .title_span {
+    font-family: 'GilroyMedium' !important;
+    font-size: 24px;
+    color: #000;
+  }
+  #vertikali .elementor-section .elementor-column:last-child .elementor-element-populated{
+    font-family: "GilroyRegular";
+    color: #000 !important;
+    background-color: #fff;
+    border: none;
+    padding: 24px 33px 24px 33px;
+    border-radius: 8px;
+  }
+  #vertikali .elementor-section .elementor-column:last-child .elementor-heading-title{
+    font-family: "GilroyRegular";
+    color: #000;
+    line-height: 120%;
+    font-weight: 400;
+  }
+
+  #vertikali .elementor-widget-container h4{
+    display: inline-flex;
+    flex-wrap: wrap;
+    font-family: 'GilroyMedium' !important;
+    color: #000 !important;
+    font-size: 18px;
+  }
+  #komissii {
+    padding-bottom: 120px;
+  }
+  #komissii_title {
+    font-family: "GilroyBlack" !important;
+    color: #000;
+    max-width: 429px;
+    margin: 0 auto 15px;
+  }
+  #komissii_title .elementor-widget-container {
+    margin: 0 !important;
+  }
+  #komissii_title .elementor-heading-title{
+    font-family: "GilroyBlack" !important;
+    color: #000;
+}
+#komissii .elementor-widget-container h4{
+    font-family: "GilroyBlack" !important;
+    color: #222222;
+}
+#komissii .elementor-widget-container p{
+  font-family: "GilroyRegular" !important;
+  color: #000;
+  line-height: 165%;
+  padding: 0 60px;
+  margin: 0;
+}
+#kommissiy_box_cards .elementor-widget-wrap {
+  padding: 10px;
+}
+#komissii .elementor-widget-container img{
+    max-width: 75px;
+    max-height: 75px;
+    margin-top: 0;
+}
+#kommissiy_box_cards .elementor-widget:not(:last-child) {
+    margin-block-end: 10px;
+  }
+#komissii .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+    padding: 0;
+  }
+  #kommissiy_box_cards .elementor-container {
+    justify-content: space-between;
+    gap: 40px;
+  }
+  #kommissiy_box_cards .elementor-widget-wrap.elementor-element-populated {
+    margin: 0;
+    padding: 10px !important;
+  }
+  #kommissiy_box_cards {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  #news {
+    padding: 88px 0 176px;
+  }
+  #news .elementor-widget-wrap.elementor-element-populated {
+    margin: 0;
+    padding: 0;
+  }
+  #news .jkit-posts.jkit-ajax-flag {
+    grid-column-gap: 40px;
+  }
+.news_title h2 {
+    font-family: "GilroyBlack" !important;
+    color: #000 !important;
+  }
+  .news_title h3 {
+    font-family: 'GilroyMedium' !important;
+    font-size: 24px !important;
+    color: #000 !important;
+  }
+  #news article .thumbnail-container {
+    min-height: 342px;
+    height: 100%;
+  }
+#news article{
+    margin: 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+#news article .jkit-thumb{
+    border-radius: 8px 8px 0 0;
+}
+#news article  .jkit-postblock-content{
+    padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex: 1;
+  min-height: 156px;
+}
+#news article  .jkit-postblock-content h3{
+  margin: 0;
+}
+#news article .jkit-postblock-content .jkit-post-meta{
+    margin: 10px 0 0;
+}
+#news article .jkit-post-title a {
+    font-family: 'GilroyRegular' !important;
+    color: #000;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 600;
+}
+#news .elementor-element {
+    margin: 0;
+  }
+#news article  .jkit-post-meta-bottom {
+    margin: 0 !important;
+  }
+  #contacts .elementor-section{
+    padding: 0;
+  }
+  #form_bg {
+    border-radius: 32px;
+    min-width: 770px;
+    min-height: 290px;
+  }
+  #form_bg .elementor-container{
+    height: inherit;
+  }
+  #form_bg .elementor-widget:not(:last-child) {
+    margin-block-end: 0px;
+  }
+  #form_subscription .wpforms-field {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  #form_subscription .wpforms-field input {
+    margin: 0;
+  }
+  #form_subscription form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #form_subscription .wpforms-field-container {
+    width: 100% !important;
+  }
+  #form_subscription form input{
+    max-width: 550px;
+    width: 100%;
+  }
+  #form_subscription .wpforms-submit-container {
+    margin: 30px 0 0;
+  }
+  #form_subscription input {
+    border-radius: 8px;
+  }
+  #contacts h2{
+    font-family: 'GilroyMedium' !important;
+  }
+  #contacts .elementor-widget-container {
+    width: 100%;
+    margin: 0;
+  }
+  #contacts .wpforms-container{
+    margin: 0;
+  }
+  #contacts #wpforms-error-noscript {
+    display: none;
+  }
+  #contacts input{
+    display: flex;
+    max-width: 550px !important;
+    width: 100%;
+    margin: 10px auto 30px;
+    padding: 0 10px;
+    min-height: 50px;
+  }
+  #contacts .wpforms-submit-container {
+    display: flex;
+    justify-content: center;
+  }
+  #contacts .elementor-widget-wrap{
+    padding: 40px;
+    display: flex;
+    gap: 36px;
+  }
+  #contacts button{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border: 1px solid;
+    padding: 0;
+    min-width: 134px;
+    min-height: 42px;
+    font-family: 'GilroyMedium' !important;
+    border: 1px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  }
+  #vertikali .elementor-section .elementor-column:last-child .elementor-element-populated:hover {
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px 0px rgba(247, 141, 167, 0.5);
+    background: rgb(255, 255, 255);
+  }
+.btn_login a:hover,
+.btn_register a:hover
+#btn_reg:hover{
+  background: rgb(194, 120, 223);
+  color: #fff;
+  border: 1px solid rgb(194, 120, 223);
+}
+.btn_login a:active,
+.btn_register a:active{
+  background: rgb(204, 207, 255);
+  color: #fff;
+}
+.ajax_box {
+  display: flex;
+  align-items: center;
+}
+.ajax_success{
+  color: green;
+}
+#questions .elementor-widget-container a {
+  padding-right: 50px;
+}
+#questions .elementor-widget-container .ekit-accordion--content a{
+  padding-right: 0;
+  color: #c36;
+}
+#contact_us_Privac_Policy {
+  position: absolute;
+  bottom: 0;
+  left: 19px;
+}
+#footer_conditions a,
+#footer_policy a{
+  color: #fff;
+}
+.form_tm_input {
+  width: 100% !important;
+}
+#modal_form_register form input,
+#modal_form_register form select{
+  background-color: #F8F8FA;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+#footer_menu_faq {
+  margin-bottom: 5px !important;
+}
+#footer_policy {
+  margin-bottom: 15px;
+}
+#reg_btn_box {
+  display: none;
+  position: absolute;
+  z-index: 999;
+  transition: all 0.5s;
+}
+.reg_wrap_btn{
+  position: relative;
+}
+#reg_btn_box.active {
+  display: flex;
+  top: 100px;
+}
+#btn_reg:focus{
+  background-color: #6B72EE;
+  border: 1px solid #6B72EE;;
+  color: #fff;
+}
+#btn_auth a{
+  text-decoration: none;
+}
+
+
+  @media (max-width: 1024px) {
+    .check_language_select {
+      position: absolute;
+      right: 50%;
+      transform: translate(50%, -50%);
+      top: 50%;
+    }
+  }
+  @media (max-width: 770px) {
+    .ehf-header #masthead {
+        width: 100%;
+      }
+      .elementor-45 .elementor-element.elementor-element-5d38d4c0 {
+        width: 80%;
+      }
+  #form_bg {
+    display: none;
+  }
+  .elementor-6 .elementor-element.elementor-element-51f071 > .elementor-element-populated {
+    padding: 35px 20px 20px 20px;
+  }
+  .elementor-166 .elementor-element.elementor-element-3b017800 > .elementor-element-populated {
+    padding: 35px 20px 20px;
+  }
+  #btn_auth .e-con-inner {
+    padding: 0;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .elementor-6 .elementor-element.elementor-element-4de82eb0 {
+    padding: 84px 20px 40px 20px;
+  }
+  #header_baner .ekit-heading--title {
+    text-align: center;
+  }
+  #advantages{
+    padding: 0;
+  }
+  #vertikali {
+    padding: 0;
+  }
+  #vertical_img {
+    height: 456px;
+  }
+  .vertical_items .elementor-widget-wrap {
+    margin: 35px 20px !important;
+    padding: 0 !important;
+  }
+  #komissii {
+    padding: 0 20px;
+  }
+  #news {
+    padding: 30px 20px;
+  margin-bottom: 50px;
+  }
+  #news article + article {
+    margin-top: 20px !important;
+  }
+  #footer_bg {
+    padding: 57px 0 47px;
+  }
+  #vertikali .elementor-section .elementor-column:last-child .elementor-heading-title {
+    padding: 24px 33px;
+  }
+  #vertikali .elementor-section .elementor-column:last-child .elementor-element-populated {
+    margin: 0 !important;
+    text-align: center;
+  }
+  #vertikali section{
+  margin-top: 0px;
+    margin-bottom: 20px;
+  }
+  #vertikali section .elementor-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  #vertical_item_name {
+    width: auto;
+  }
+  #vertical_item_name .elementor-widget-wrap{
+    margin: 0 !important;
+  }
+  #vertical_item_img {
+    width: auto;
+  }
+  #vertical_item_img .elementor-widget-container {
+    margin: 0 !important;
+  }
+  #vertical_item_img img {
+    max-width: 60px;
+    width: 100%;
+  }
+  #vertical_item_img .elementor-widget-wrap{
+margin: 0 !important;
+  }
+  #footer_policy,
+  #footer_conditions{
+    padding-left: 20px;
+  }
+  #footer_logo .elementor-widget-wrap {
+    padding: 0 26px;
+  }
+}
