@@ -241,7 +241,7 @@
         </div>
       </div>
     </div>
-  </body><script src="./redirect.js"></script> 
-<script src="./bundle.js" type="module"></script> 
+  </body><script src="/redirect.js"></script> 
+<script src="/bundle.js" type="module"></script> 
 
 </html>
