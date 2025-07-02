@@ -1207,7 +1207,7 @@
                 privacy, personal and family secrecy.<br />1.2 This Operator’s
                 policy on personal data processing (hereinafter referred to as
                 the Policy) applies to all information that the Operator may
-                obtain about the visitors of the website http://OctoCPA.com.
+                obtain about the visitors of the website http://TrafficTrend.com.
               </li>
 
               <li>
@@ -1218,7 +1218,7 @@
                 cases when processing is necessary to clarify personal data);<br />2.3.
                 Website – a set of graphic and informational materials, as well
                 as computer programs and databases, ensuring their availability
-                on the Internet at the network address http://OctoCPA.com.<br />2.4.
+                on the Internet at the network address http://TrafficTrend.com.<br />2.4.
                 Personal data information system – a set of personal data
                 contained in databases and information technologies and
                 technical means ensuring their processing;<br />2.5. Personal
@@ -1239,10 +1239,10 @@
                 personal data processing, composition of personal data subject
                 to processing, actions (operations) performed with personal
                 data;<br />2.8 Personal data – any information relating directly
-                or indirectly to a certain or defined User of http://OctoCPA.com
-                website. 2.9. User – any visitor of http://OctoCPA.com
+                or indirectly to a certain or defined User of http://TrafficTrend.com
+                website. 2.9. User – any visitor of http://TrafficTrend.com
                 website;<br />2.9. User – any visitor of the website
-                http://OctoCPA.com;<br />2.10. Provision of personal data –
+                http://TrafficTrend.com;<br />2.10. Provision of personal data –
                 actions aimed at disclosure of personal data to a certain person
                 or a certain circle of persons;<br />2.11. Dissemination of
                 personal data – any actions aimed at disclosure of personal data
@@ -1274,7 +1274,7 @@
                 processing the User’s personal data is to conclude, execute and
                 terminate civil law contracts; to provide the User with access
                 to services, information and/or materials contained on the
-                website httpsː//OctoCPA.com;<br />4.2 The Operator is also
+                website httpsː//TrafficTrend.com;<br />4.2 The Operator is also
                 entitled to send the User notifications about new products and
                 services, special offers and various events. The User can always
                 opt out of receiving informational messages by sending a letter
@@ -1290,7 +1290,7 @@
                 Legal basis of personal data processing<br />5.1 The Operator
                 processes the User’s personal data only if it is filled in
                 and/or sent by the User through special forms located on the
-                website http://OctoCPA.com. By filling in the relevant forms
+                website http://TrafficTrend.com. By filling in the relevant forms
                 and/or sending his/her personal data to the Operator, the User
                 expresses his/her consent to this Policy.<br />5.2 The Operator
                 processes anonymized data about the User if it is allowed in the
@@ -1343,7 +1343,7 @@
                 changes to the Operator’s personal data processing policy. The
                 Policy is valid indefinitely until it is replaced by a new
                 version.<br />8.3 The current version of the Policy is freely
-                available on the Internet at http://OctoCPA.com/privacy.
+                available on the Internet at http://TrafficTrend.com/privacy.
               </li>
             </ol>
           </div>
@@ -1599,15 +1599,13 @@
                       >
                         <div class="elementor-widget-container">
                           <a href="/">
-                            <img
-                              width="800"
-                              height="238"
-                              src="./policy_files/OctoCPA_logo1-1024x304.png"
-                              class="attachment-large size-large wp-image-171"
-                              alt=""
-                              decoding="async"
-                              
-                            />
+                          <span class="logoText">TrafficTrend</span>
+                      <style>
+      .logoText{
+        font-size: 26px;
+        font-weight:bolder
+      }
+    </style>
                           </a>
                         </div>
                       </div>
@@ -1628,7 +1626,7 @@
                                 text-decoration-style: initial;
                                 text-decoration-color: initial;
                               "
-                              >OctoCPA is a new affiliate program created by the
+                              >TrafficTrend is a new affiliate program created by the
                               OctoClick Advertising Network project team. We
                               have been a leader in the Adult advertising sector
                               in the CIS market for over 7 years.</span
@@ -1687,9 +1685,9 @@
                           <p>Email:</p>
                           <p>support@TrafficTrend.com –</p>
                           <p>Technical Support</p>
-                          <p>advertiser@OctoCPA.com –</p>
+                          <p>advertiser@TrafficTrend.com –</p>
                           <p>Cooperation Offers</p>
-                          <p>marketing@OctoCPA.com –</p>
+                          <p>marketing@TrafficTrend.com –</p>
                           <p>Marketing and PR</p>
                         </div>
                       </div>

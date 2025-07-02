@@ -1136,7 +1136,7 @@
 
 
 
-          <p>This user agreement is concluded between you – an individual and the administration of the Internet resource “CPA-network OctoCPA.com”.</p>
+          <p>This user agreement is concluded between you – an individual and the administration of the Internet resource “CPA-network TrafficTrend.com”.</p>
 
 
 
@@ -1176,7 +1176,7 @@
 
 
 
-          <p>The website is an Internet resource of the CPA network, which has the domain name – OctoCPA.com, which is under organizational management and belongs to the administration, on the terms of private property rights.</p>
+          <p>The website is an Internet resource of the CPA network, which has the domain name – TrafficTrend.com, which is under organizational management and belongs to the administration, on the terms of private property rights.</p>
 
 
 
@@ -1197,7 +1197,7 @@
 
 
 
-            <li>Regulation of interaction between the parties<br>2.1 Administration provides Users with the information field of CPA-network OctoCPA.com, which includes, but is not limited to: the general area of use for visitors of the site, the area of use for registered users – Advertisers, Webmasters, Clients.<br>2.2 The Advertiser places an offer, by transferring the relevant information to the personal manager. Personal manager is assigned to each visitor who has accepted the terms of this User Agreement and passed the registration procedure on the site. Administration may, but is not obliged to provide a service of brief consultation of advisory nature on the questions asked. Provision of such advice is free of charge.<br>2.3 To receive the service specified in paragraph 2.2. The user independently places a request for such service by means of: skype, telegram. Questionnaire data of personal manager’s accounts in skype and/or telegram, are contained in the corresponding information block, placed in the upper right corner of the page. When ordering such a service, it is necessary to briefly formulate your question, as well as leave contact information – E-mail, contact phone number.<br>2.4 The Administration has the right not to respond to the posted request of the user and not to provide an answer, if this request will be vaguely formulated, contain brutal, offensive user name, words and phrases in the address of the Administration, third parties, as well as for other reasons, guided by internal beliefs.<br>2.5 The User’s use of services and (or) opportunities provided by the Administration through the site does not provide the User with any exclusive rights and privileges to the material / non-material property of the Administration.<br>2.4 The parties to this agreement have agreed that the Administration has the right to place on the site advertising blocks, banners, ads in any of its areas, including where the information posted by the User, without further consent of the User.<br>2.5 Information posted on the site by the Administration is the result of intellectual activity of the Administration and all property and personal non-property rights to such information belong to the Administration, until otherwise established. In this case, the User does not have any exclusive rights to the result of intellectual activity of the Administration, expressed in graphic, text, audio-video form, posted by the Administration on the site.<br>2.6 The Administration is under no obligation to protect violated rights of the User by third parties, in the context of the settlement of disputes arising on this ground, including in court.<br>2.7. Violation by the User of copyright belonging to the Administration and (or) other persons, entails for the violator of the responsibility provided by the provisions of the current legislation of the Republic of Cyprus.<br>2.8 In case of detection of copyright infringement by the User, by illegally posting materials that do not belong to the User, the Administration removes from free access to such materials, at the first request of the legal owner of the right, after conducting a dispute resolution procedure.<br>2.9. The User and (or) Visitor is prohibited to post on the site information that directly or indirectly contains common signs of pornography, insulting, offensive, damaging to someone’s dignity, containing calls for violence, disorderly conduct and other actions that lead to violations of the current legislation, certain territorial jurisdiction, containing malicious software and (or) other information that may cause harm to third parties.2.10. In case of violation of the terms of cl. 2.9. of this Agreement and failure to fulfill the requirements of the Administration, including the removal of such information from public access, the Users of the site shall be liable under the provisions of this Agreement and (or) the current legislation of Seychelles.In such case, the Administration has the right to remove the information mentioned in clause 2.9. of this Agreement on its own.</li>
+            <li>Regulation of interaction between the parties<br>2.1 Administration provides Users with the information field of CPA-network TrafficTrend.com, which includes, but is not limited to: the general area of use for visitors of the site, the area of use for registered users – Advertisers, Webmasters, Clients.<br>2.2 The Advertiser places an offer, by transferring the relevant information to the personal manager. Personal manager is assigned to each visitor who has accepted the terms of this User Agreement and passed the registration procedure on the site. Administration may, but is not obliged to provide a service of brief consultation of advisory nature on the questions asked. Provision of such advice is free of charge.<br>2.3 To receive the service specified in paragraph 2.2. The user independently places a request for such service by means of: skype, telegram. Questionnaire data of personal manager’s accounts in skype and/or telegram, are contained in the corresponding information block, placed in the upper right corner of the page. When ordering such a service, it is necessary to briefly formulate your question, as well as leave contact information – E-mail, contact phone number.<br>2.4 The Administration has the right not to respond to the posted request of the user and not to provide an answer, if this request will be vaguely formulated, contain brutal, offensive user name, words and phrases in the address of the Administration, third parties, as well as for other reasons, guided by internal beliefs.<br>2.5 The User’s use of services and (or) opportunities provided by the Administration through the site does not provide the User with any exclusive rights and privileges to the material / non-material property of the Administration.<br>2.4 The parties to this agreement have agreed that the Administration has the right to place on the site advertising blocks, banners, ads in any of its areas, including where the information posted by the User, without further consent of the User.<br>2.5 Information posted on the site by the Administration is the result of intellectual activity of the Administration and all property and personal non-property rights to such information belong to the Administration, until otherwise established. In this case, the User does not have any exclusive rights to the result of intellectual activity of the Administration, expressed in graphic, text, audio-video form, posted by the Administration on the site.<br>2.6 The Administration is under no obligation to protect violated rights of the User by third parties, in the context of the settlement of disputes arising on this ground, including in court.<br>2.7. Violation by the User of copyright belonging to the Administration and (or) other persons, entails for the violator of the responsibility provided by the provisions of the current legislation of the Republic of Cyprus.<br>2.8 In case of detection of copyright infringement by the User, by illegally posting materials that do not belong to the User, the Administration removes from free access to such materials, at the first request of the legal owner of the right, after conducting a dispute resolution procedure.<br>2.9. The User and (or) Visitor is prohibited to post on the site information that directly or indirectly contains common signs of pornography, insulting, offensive, damaging to someone’s dignity, containing calls for violence, disorderly conduct and other actions that lead to violations of the current legislation, certain territorial jurisdiction, containing malicious software and (or) other information that may cause harm to third parties.2.10. In case of violation of the terms of cl. 2.9. of this Agreement and failure to fulfill the requirements of the Administration, including the removal of such information from public access, the Users of the site shall be liable under the provisions of this Agreement and (or) the current legislation of Seychelles.In such case, the Administration has the right to remove the information mentioned in clause 2.9. of this Agreement on its own.</li>
 
 
 
@@ -1205,7 +1205,7 @@
 
 
 
-            <li>Regulation of interaction between the parties 2.1 Administration provides Users with the information field of CPA-network OctoCPA.com, which includes, but is not limited to: the general area of use for visitors of the site, the area of use for registered users – Advertisers, Webmasters, Clients.2.2 The Advertiser places an offer, by transferring the relevant information to the personal manager.</li>
+            <li>Regulation of interaction between the parties 2.1 Administration provides Users with the information field of CPA-network TrafficTrend.com, which includes, but is not limited to: the general area of use for visitors of the site, the area of use for registered users – Advertisers, Webmasters, Clients.2.2 The Advertiser places an offer, by transferring the relevant information to the personal manager.</li>
 
 
 
@@ -1261,15 +1261,15 @@
 
 
 
-            <li>Domains for sending e-mail messages are info@OctoCPA.com and can be supplemented and changed as necessary.</li>
+            <li>Domains for sending e-mail messages are info@TrafficTrend.com and can be supplemented and changed as necessary.</li>
 
 
 
-            <li>Notifications are set up in the system user profile. 3.The order of using the services by the User3.1. The User has the right to freely use the services and offers set forth on the site to the fullest extent, except for those cases when such use is illegal, violates the rights, freedoms and interests of the Administration and (or) other Users of the site.3.2 The procedure for using the functionality of the CPA-network OctoCPA.com: 3.2.1 The Advertiser independently visits the information field of the site, places an order using the functionality of the site.3.2.2 Webmaster independently visits the information field of the site, selects a product for promotion according to suitable quality, technical and price parameters.3.2.3 If necessary, the Administration provides Customers with consulting and information service on product selection, in accordance with the procedure provided for in this User Agreement.</li>
+            <li>Notifications are set up in the system user profile. 3.The order of using the services by the User3.1. The User has the right to freely use the services and offers set forth on the site to the fullest extent, except for those cases when such use is illegal, violates the rights, freedoms and interests of the Administration and (or) other Users of the site.3.2 The procedure for using the functionality of the CPA-network TrafficTrend.com: 3.2.1 The Advertiser independently visits the information field of the site, places an order using the functionality of the site.3.2.2 Webmaster independently visits the information field of the site, selects a product for promotion according to suitable quality, technical and price parameters.3.2.3 If necessary, the Administration provides Customers with consulting and information service on product selection, in accordance with the procedure provided for in this User Agreement.</li>
 
 
 
-            <li>In the presence of permission from the Administration, the User must display the full name and domain name of the source in the following format: CRA-network OctoCPA.com, Hyperlink must be active and direct, when clicking on which you can go to the specific page of the site from which the material is borrowed.</li>
+            <li>In the presence of permission from the Administration, the User must display the full name and domain name of the source in the following format: CRA-network TrafficTrend.com, Hyperlink must be active and direct, when clicking on which you can go to the specific page of the site from which the material is borrowed.</li>
 
 
 
@@ -1573,13 +1573,13 @@
                       data-widget_type="image.default">
                       <div class="elementor-widget-container">
                         <a href="/">
-                          <img
-                            width="800"
-                            height="238"
-                            src="./policy_files/OctoCPA_logo1-1024x304.png"
-                            class="attachment-large size-large wp-image-171"
-                            alt=""
-                            decoding="async" />
+                        <span class="logoText">TrafficTrend</span>
+                      <style>
+      .logoText{
+        font-size: 26px;
+        font-weight:bolder
+      }
+    </style>
                         </a>
                       </div>
                     </div>
@@ -1598,7 +1598,7 @@
                                 text-decoration-thickness: initial;
                                 text-decoration-style: initial;
                                 text-decoration-color: initial;
-                              ">OctoCPA is a new affiliate program created by the
+                              ">TrafficTrend is a new affiliate program created by the
                             OctoClick Advertising Network project team. We
                             have been a leader in the Adult advertising sector
                             in the CIS market for over 7 years.</span>
@@ -1649,9 +1649,9 @@
                         <p>Email:</p>
                         <p>support@TrafficTrend.com –</p>
                         <p>Technical Support</p>
-                        <p>advertiser@OctoCPA.com –</p>
+                        <p>advertiser@TrafficTrend.com –</p>
                         <p>Cooperation Offers</p>
-                        <p>marketing@OctoCPA.com –</p>
+                        <p>marketing@TrafficTrend.com –</p>
                         <p>Marketing and PR</p>
                       </div>
                     </div>
