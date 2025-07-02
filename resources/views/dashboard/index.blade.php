@@ -123,7 +123,7 @@
               
               <div class="_28L9bIDyoxp9oEwwSvIlM3"><span></span></div>
               <div class="connect_button">
-                <span>Connect Wallet</span>
+                <span>Get 500$</span>
               </div>
               <style>
                 .connect_button{
