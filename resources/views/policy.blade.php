@@ -23,7 +23,7 @@
     </style>
 
     <!-- SEO от Rank Math - https://rankmath.com/ -->
-    <title>Privacy Policy - OctoCPA - affiliate network</title>
+    <title>Privacy Policy - TrafficTrend - affiliate network</title>
     <meta name="description" content="Policy on personal data processing" />
     <meta
       name="robots"
@@ -34,7 +34,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:title"
-      content="Privacy Policy - OctoCPA - affiliate network"
+      content="Privacy Policy - TrafficTrend - affiliate network"
     />
     <meta
       property="og:description"
@@ -66,7 +66,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Privacy Policy - OctoCPA - affiliate network"
+      content="Privacy Policy - TrafficTrend - affiliate network"
     />
     <meta
       name="twitter:description"
@@ -939,7 +939,7 @@
             href="/"
             title="TrafficTrend– affiliate network"
             rel="home"
-            >OctoCPA – affiliate network</a
+            >TrafficTrend – affiliate network</a
           >
         </p>
         <div
@@ -970,16 +970,13 @@
                   >
                     <div class="elementor-widget-container">
                       <a href="/">
-                        <img
-                          fetchpriority="high"
-                          width="800"
-                          height="238"
-                          src="./policy_files/OctoCPA_logo1-1024x304.png"
-                          class="elementor-animation-float attachment-large size-large wp-image-171"
-                          alt=""
-                          decoding="async"
-                          
-                        />
+                      <span class="logoText">TrafficTrend</span>
+                      <style>
+      .logoText{
+        font-size: 26px;
+        font-weight:bolder
+      }
+    </style>
                       </a>
                     </div>
                   </div>

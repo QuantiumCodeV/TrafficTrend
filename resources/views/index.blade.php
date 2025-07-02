@@ -62,11 +62,11 @@
       async=""
     ></script>
     <title>
-      OctoCPA — Top CPA Network for Professionals | CPA Network with High ROI
+      TrafficTrend — Top CPA Network for Professionals | CPA Network with High ROI
     </title>
     <meta
       name="description"
-      content="Looking for the best CPA networks? OctoCPA offers exclusive offers, high rates and personal support. Join the top CPA network and increase your income."
+      content="Looking for the best CPA networks? TrafficTrend offers exclusive offers, high rates and personal support. Join the top CPA network and increase your income."
     />
     <meta name="yandex-verification" content="7efbce6d05f0bab5" />
     <meta
@@ -124,7 +124,7 @@
         src="_next/static/media/headerSm.f556d2d6.webp"
       />
       <div class="Header_inner__THJEl">
-      <span class="logoText">OctoCPA</span>
+      <span class="logoText">TrafficTrend</span>
         <div class="Header_nav__mHZr8">
           <a class="Header_navItem__WQVgA hover-glow-text" href="index.html"
             ><span>Home</span></a
@@ -256,7 +256,7 @@
         <div class="IndexPage_main__Nf9ts IndexPage_pageBlock__yLsJ2">
           <div class="IndexPage_mainContainer__ekH7j">
             <h1 class="IndexPage_mainTitle__ysDxK sr-el">
-              OctoCPA - Reliable Affiliate<br /><span class="mark"
+              TrafficTrend - Reliable Affiliate<br /><span class="mark"
                 >World Class Network</span
               >
             </h1>
@@ -1233,7 +1233,7 @@
                 src="_next/static/media/logoTight.877a8c15.svg"
             /></a>
             <div class="Footer_info__mBKuc">
-              OctoCPA is a new affiliate program created by the OctoClick
+              TrafficTrend is a new affiliate program created by the OctoClick
               Advertising Network project team. We have been a leader in the
               field of adult advertising in the CIS market for over 7 years.
             </div>
@@ -1309,7 +1309,7 @@
               >
             </div>
             <div class="Footer_socials__ISPtt">
-              <a target="_blank" rel="noopener" href="https://t.me/OctoCPA"
+              <a target="_blank" rel="noopener" href="https://t.me/TrafficTrend"
                 ><img
                   alt=""
                   loading="lazy"
