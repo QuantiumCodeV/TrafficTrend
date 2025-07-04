@@ -435,14 +435,15 @@
                     ><scaleo-platform-logo
                       _nghost-ng-c239596607=""
                       class="platform-logo ng-star-inserted"
-                      ><div
-                        _ngcontent-ng-c239596607=""
-                        tabindex="0"
-                        class="platform-logo__img"
-                        style="
-                          background: url('https://s3.eu-central-1.amazonaws.com/storage.scaleo.io/platform/img67603ca03c7a0.png');
-                        "
-                      ></div></scaleo-platform-logo
+                      ><span class="logoText">
+                TrafficTrend
+              </span>
+              <style>
+                .logoText {
+                  font-size: 24px;
+                  font-weight: bold
+                }
+              </style></scaleo-platform-logo
                     ><!---->
                   </div>
                   <router-outlet name="toolbar-languages"></router-outlet
