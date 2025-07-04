@@ -7,36 +7,8 @@
     <link href="/assets/css" rel="stylesheet" />
     <link rel="stylesheet" href="/assets/app.css" />
     <link rel="manifest" href="https://my.gambling.pro/manifest.json" />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="https://my.gambling.pro/favicon/apple-touch-icon.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="https://my.gambling.pro/favicon/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="https://my.gambling.pro/favicon/favicon-16x16.png"
-    />
-    <link
-      rel="manifest"
-      href="https://my.gambling.pro/favicon/site.webmanifest"
-    />
-    <link
-      rel="mask-icon"
-      href="https://my.gambling.pro/favicon/safari-pinned-tab.svg"
-      color="#0047da"
-    />
-    <link
-      rel="shortcut icon"
-      href="https://my.gambling.pro/favicon/favicon.ico"
-    />
+      <link rel="shortcut icon" href="/_next/static/media/FavCPA_1.029f5c88.png" type="image/x-icon">
+
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
     <meta name="theme-color" content="#ffffff" />
@@ -51,15 +23,15 @@
           <header>
             <div class="container">
               <div class="u6jpspHr303FQOgA6gafW">
-              <span>
-                  TrafficTrend
-                </span>
-                <style>
-      .logoText{
-        font-size: 45px;
-        font-weight:bolder
-      }
-    </style>
+              <span class="logoText">
+                TrafficTrend
+              </span>
+              <style>
+                .logoText {
+                  font-size: 24px;
+                  font-weight: bold
+                }
+              </style>
               </div>
               
               <div class="K4kMBG___38loCe_7pi8m">

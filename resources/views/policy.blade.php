@@ -704,24 +704,8 @@
       }
     </style>
     
-    <link
-      rel="icon"
-      href="https://OctoCPA.com/wp-content/uploads/2024/08/cropped-Favicon-32x32.webp"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      href="https://OctoCPA.com/wp-content/uploads/2024/08/cropped-Favicon-192x192.webp"
-      sizes="192x192"
-    />
-    <link
-      rel="apple-touch-icon"
-      href="https://OctoCPA.com/wp-content/uploads/2024/08/cropped-Favicon-180x180.webp"
-    />
-    <meta
-      name="msapplication-TileImage"
-      content="https://OctoCPA.com/wp-content/uploads/2024/08/cropped-Favicon-270x270.webp"
-    />
+    <link rel="shortcut icon" href="/_next/static/media/FavCPA_1.029f5c88.png" type="image/x-icon">
+
     <style>
       #wpforms-389-field_1-container {
         position: absolute !important;

@@ -137,10 +137,10 @@
               setDrawerOpen: l,
               isRegisterOpen: n,
               setRegisterOpen: s,
-              isOctoclickVideoOpen: o,
-              setOctoclickVideoOpen: d,
-              isOctoclickPopupOpen: c,
-              setOctoclickPopupOpen: u,
+              isOctoClickVideoOpen: o,
+              setOctoClickVideoOpen: d,
+              isOctoClickPopupOpen: c,
+              setOctoClickPopupOpen: u,
               isIndevPopupOpen: g,
               setIndevPopupOpen: h,
             },
@@ -150,7 +150,7 @@
     },
     9417: (e, t, a) => {
       "use strict";
-      a.d(t, { OctoclickPopup: () => m });
+      a.d(t, { OctoClickPopup: () => m });
       var A = a(5155),
         r = a(435),
         i = a(1719);
@@ -173,11 +173,11 @@
         d = a(2115),
         c = a(9653),
         u = a.n(c);
-      let g = "octoclick_popup_shown",
+      let g = "OctoClick_popup_shown",
         h = "true",
         m = (e) => {
           let { loc: t } = e,
-            { isOctoclickPopupOpen: a, setOctoclickPopupOpen: c } = (0,
+            { isOctoClickPopupOpen: a, setOctoClickPopupOpen: c } = (0,
             d.useContext)(r.M),
             m = (0, d.useRef)(!1),
             p = (0, d.useCallback)(() => {
@@ -192,92 +192,8 @@
               sessionStorage.setItem(g, h), c(!1);
             }, [c]),
             b = (0, d.useId)();
-          return (
-            (0, d.useEffect)(() => {
-              let e = document.querySelector(".page_footer");
-              if (!e) return;
-              let t = new IntersectionObserver(
-                (a) => {
-                  let [A] = a;
-                  A.isIntersecting && (p(), t.unobserve(e));
-                },
-                { threshold: 0 }
-              );
-              return (
-                t.observe(e),
-                () => {
-                  t.unobserve(e);
-                }
-              );
-            }, [p]),
-            (0, A.jsxs)("div", {
-              className: (0, s.A)(u().popup, a && u().is_open),
-              style: { "--mask-value": `url(#${b})` },
-              children: [
-                (0, A.jsx)("svg", {
-                  className: u().borderMask,
-                  width: "0",
-                  height: "0",
-                  children: (0, A.jsx)("defs", {
-                    children: (0, A.jsx)("mask", {
-                      id: b,
-                      children: (0, A.jsx)("rect", {
-                        x: "0",
-                        y: "0",
-                        width: "100%",
-                        height: "100%",
-                        fill: "transparent",
-                        stroke: "white",
-                        strokeWidth: "3px",
-                        rx: "30px",
-                        ry: "30px",
-                      }),
-                    }),
-                  }),
-                }),
-                (0, A.jsx)("div", { className: u().border }),
-                (0, A.jsxs)("div", {
-                  className: u().body,
-                  children: [
-                    (0, A.jsx)("div", {
-                      className: u().title,
-                      children: t.index.popup.title,
-                    }),
-                    (0, A.jsx)("div", {
-                      className: u().text,
-                      children: t.index.popup.text,
-                    }),
-                    (0, A.jsx)("a", {
-                      href: "https://octoclick.com/",
-                      target: "_blank",
-                      rel: "noopener noreferer",
-                      className: u().action,
-                      children: (0, A.jsx)("div", {
-                        className: u().actionInner,
-                        children: t.index.popup.action,
-                      }),
-                    }),
-                  ],
-                }),
-                (0, A.jsx)("button", {
-                  type: "button",
-                  className: u().close,
-                  onClick: f,
-                  children: (0, A.jsx)(i.A, {}),
-                }),
-                (0, A.jsx)(o.default, {
-                  className: u().image__item1,
-                  src: l,
-                  alt: "",
-                }),
-                (0, A.jsx)(o.default, {
-                  className: u().image__item2,
-                  src: n,
-                  alt: "",
-                }),
-              ],
-            })
-          );
+          return true;
+        
         };
     },
     7703: (e, t, a) => {
@@ -618,7 +534,7 @@
       var d = a(3463);
       let c = (e) => {
         let { styles: t, loc: a } = e,
-          { setRegisterOpen: A, setOctoclickVideoOpen: s } = (0, n.useContext)(
+          { setRegisterOpen: A, setOctoClickVideoOpen: s } = (0, n.useContext)(
             l.M
           );
         return (0, r.jsx)("div", {
@@ -1248,7 +1164,7 @@
       let c = () => {
         let e = (0, s.useRef)(null),
           t = (0, s.useRef)(null),
-          { isOctoclickVideoOpen: a, setOctoclickVideoOpen: o } = (0,
+          { isOctoClickVideoOpen: a, setOctoClickVideoOpen: o } = (0,
           s.useContext)(r.M),
           [c, u] = (0, s.useState)(a);
         (0, s.useEffect)(() => {
@@ -1301,7 +1217,7 @@
                     autoPlay: !0,
                     children: [
                       (0, A.jsx)("source", {
-                        src: "/assets/octoclick.webm",
+                        src: "/assets/OctoClick.webm",
                         type: "video/webm",
                       }),
                       "Your browser does not support this video format.",
@@ -1876,21 +1792,21 @@
     },
     9653: (e) => {
       e.exports = {
-        popup: "OctoclickPopup_popup__22MLs",
-        close: "OctoclickPopup_close__8e9VP",
-        is_open: "OctoclickPopup_is_open__ZvO_S",
-        body: "OctoclickPopup_body__kvxWs",
-        borderMask: "OctoclickPopup_borderMask__w7tUy",
-        border: "OctoclickPopup_border__Ca2zj",
-        title: "OctoclickPopup_title__sLZA4",
-        text: "OctoclickPopup_text__jG61X",
-        action: "OctoclickPopup_action__P_3oe",
-        actionInner: "OctoclickPopup_actionInner___M5c_",
-        image: "OctoclickPopup_image__jM1Y9",
-        image__item1: "OctoclickPopup_image__item1__Ga4Q_",
-        floatItem1: "OctoclickPopup_floatItem1__Oy8Aq",
-        image__item2: "OctoclickPopup_image__item2__kt_Id",
-        floatItem2: "OctoclickPopup_floatItem2__UAKgC",
+        popup: "OctoClickPopup_popup__22MLs",
+        close: "OctoClickPopup_close__8e9VP",
+        is_open: "OctoClickPopup_is_open__ZvO_S",
+        body: "OctoClickPopup_body__kvxWs",
+        borderMask: "OctoClickPopup_borderMask__w7tUy",
+        border: "OctoClickPopup_border__Ca2zj",
+        title: "OctoClickPopup_title__sLZA4",
+        text: "OctoClickPopup_text__jG61X",
+        action: "OctoClickPopup_action__P_3oe",
+        actionInner: "OctoClickPopup_actionInner___M5c_",
+        image: "OctoClickPopup_image__jM1Y9",
+        image__item1: "OctoClickPopup_image__item1__Ga4Q_",
+        floatItem1: "OctoClickPopup_floatItem1__Oy8Aq",
+        image__item2: "OctoClickPopup_image__item2__kt_Id",
+        floatItem2: "OctoClickPopup_floatItem2__UAKgC",
       };
     },
     3147: (e) => {
