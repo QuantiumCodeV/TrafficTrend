@@ -61,7 +61,7 @@
                     <span class="_3DJOWwnBCSt6RUIPM6NciM ant-dropdown-trigger"
                       ><div class="_269i8NOYRN4BCpCAs29hue">
                         <strong>{{  auth()->user()->email }}</strong
-                        ><strong>ID {{ auth()->user()->id + 500 }}</strong>
+                        ><strong>ID {{ auth()->user()->id + 300 }}</strong>
                       </div>
                       <img alt="avatar" src="/assets/avatar.jpg" /><svg
                         xmlns="http://www.w3.org/2000/svg"
