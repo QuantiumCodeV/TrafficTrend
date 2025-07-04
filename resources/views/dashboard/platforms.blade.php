@@ -93,7 +93,7 @@
               .connect_button {
                 display: flex;
                 padding: 15px 25px;
-                background-color:darkseagreen;
+                background-color:green;
                 border-radius: 5px;
                 transition: all 0.3s ease-in-out;
                 cursor: pointer;
