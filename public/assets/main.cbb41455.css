@@ -1125,7 +1125,7 @@ a {
 }
 
 header {
-  z-index: 100003;
+  z-index: 999;
 }
 
 ._1iABIUHbxXlzJ3vNI5Ya_7 {
@@ -3599,7 +3599,7 @@ header {
 ._2nirk5ra3ia3YrZuYM-_Zg {
   top: 70px;
   position: fixed;
-  z-index: 1051;
+  z-index: 999;
   left: 0;
   right: 0;
 }
