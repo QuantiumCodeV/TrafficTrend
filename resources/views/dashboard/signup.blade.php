@@ -638,7 +638,7 @@
                                         ><!----><input
                                           modinput=""
                                           type="text"
-                                          placeholder="(OctoClick/соцсети/email/конференции/реклама на сайтах/другое)"
+                                          placeholder="(TraffiClick/соцсети/email/конференции/реклама на сайтах/другое)"
                                           class="ng-untouched ng-pristine ng-invalid mod-input ng-star-inserted"
                                           id="mod-input-7c1b6eb5-32e5-4f84-8123-d1b333e56ed5"
                                         /><!----><!----><scaleo-form-field-errors
