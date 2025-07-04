@@ -57,7 +57,7 @@
                 <div class="I0ZZf5NRwBqi2u6BTo_Is tour-profile-link">
                   <span class="_3DJOWwnBCSt6RUIPM6NciM ant-dropdown-trigger">
                     <div class="_269i8NOYRN4BCpCAs29hue">
-                      <strong>{{ auth()->user()->email }}</strong><strong>ID {{ auth()->user()->id }}</strong>
+                      <strong>{{ auth()->user()->email }}</strong><strong>ID {{ auth()->user()->id + 500 }}</strong>
                     </div>
                     <img alt="avatar" src="/assets/avatar.jpg" /><svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +130,7 @@
                 Statistics</a>
             </li>
             <li>
-              <a class="tour-offers" aria-current="false" href="/dashboard/offers"><svg
+              <a class="tour-offers" aria-current="false" href="/offers"><svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
                   height="16"
@@ -146,7 +146,7 @@
                 Offers</a>
             </li>
             <li>
-              <a aria-current="false" href="/dashboard/platforms"><svg
+              <a aria-current="false" href="/platforms"><svg
                   class="WtmydXuM7R7Rcr8o1ipWj"
                   viewBox="0 0 16 15"
                   xmlns:xlink="http://www.w3.org/1999/xlink"

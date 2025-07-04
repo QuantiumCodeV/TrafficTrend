@@ -22,11 +22,11 @@ Route::get('/dashboard', function () {
     return view('dashboard.index');
 })->middleware(['auth', 'verified', 'can_login'])->name('dashboard');
 
-Route::get('/dashboard/offers', function () {
+Route::get('/offers', function () {
     return view('dashboard.offers');
 })->middleware(['auth', 'verified', 'can_login']);
 
-Route::get('/dashboard/platforms', function () {
+Route::get('/platforms', function () {
     return view('dashboard.platforms');
 })->middleware(['auth', 'verified', 'can_login']);
 
