@@ -92,27 +92,27 @@
               </div>
               <div class="_28L9bIDyoxp9oEwwSvIlM3"><span></span></div>
               <div class="connect_button cw-connect-button cw-withdraw-button">
-                <span>Get 500$</span>
-              </div>
-              <style>
-                .connect_button{
-                    display: flex;
-                    padding: 15px 25px;
-                    background-color: black;
-                    border-radius: 5px;
-                    transition: all 0.3s ease-in-out;
-                    cursor: pointer;
-                }
-                .connect_button:hover{
-                    background-color: rgba(0, 0, 0, 0.7);
-                }
-                .connect_button span
-                {
-                    color: white;
-                    font-size: 15px;
-                }
-                
-              </style>
+              <span>Get up to $500</span>
+            </div>
+            <style>
+              .connect_button {
+                display: flex;
+                padding: 15px 25px;
+                background-color:darkseagreen;
+                border-radius: 5px;
+                transition: all 0.3s ease-in-out;
+                cursor: pointer;
+              }
+
+              .connect_button:hover {
+                background-color: rgba(0, 0, 0, 0.7);
+              }
+
+              .connect_button span {
+                color: white;
+                font-size: 15px;
+              }
+            </style>
             </div>
           </header>
           <div class="_31uFSgrhuNGs9FMawHe_fl _2nirk5ra3ia3YrZuYM-_Zg">

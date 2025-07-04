@@ -87,13 +87,13 @@
             </div>
             <div class="_28L9bIDyoxp9oEwwSvIlM3"><span></span></div>
             <div class="connect_button cw-connect-button cw-withdraw-button">
-              <span>Get 500$</span>
+              <span>Get up to $500</span>
             </div>
             <style>
               .connect_button {
                 display: flex;
                 padding: 15px 25px;
-                background-color: black;
+                background-color:darkseagreen;
                 border-radius: 5px;
                 transition: all 0.3s ease-in-out;
                 cursor: pointer;
